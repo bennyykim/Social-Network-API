@@ -1,1 +1,1 @@
-# Social-Network-API
+A social network backend for users to share thoughts.
